@@ -109,5 +109,20 @@ main {
 #why-choose-us .three-column-container .three-column-item {
     font-family: 'Quicksand', sans-serif;
     color: #eeeeee;
+    padding: 75px;
+    text-align: center;
 }
 
+#why-choose-us .three-column-container .three-column-item h3 {
+    padding-bottom: 15px;
+    font-size: 160%;
+}
+
+#why-choose-us .three-column-container .three-column-item hr {
+    
+}
+
+#why-choose-us .three-column-container .three-column-item p {
+    padding: 15px 0;
+    font-size: 120%;
+}
