@@ -83,3 +83,11 @@ main {
     padding: 20px;
     font-family: 'Quicksand', sans-serif;
 }
+
+
+/* WHY CHOOSE US SECTION */
+#why-choose-us {
+    height: 800px;
+    width: 100%;
+    background-color: #222831;
+}
