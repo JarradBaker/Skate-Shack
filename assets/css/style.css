@@ -106,3 +106,8 @@ main {
     grid-template-columns: 1fr 1fr 1fr;
 }
 
+#why-choose-us .three-column-container .three-column-item {
+    font-family: 'Quicksand', sans-serif;
+    color: #eeeeee;
+}
+
