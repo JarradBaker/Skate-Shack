@@ -91,3 +91,18 @@ main {
     width: 100%;
     background-color: #222831;
 }
+
+#why-choose-us h2 {
+    font-size: 240%;
+    color: #eeeeee;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+#why-choose-us .three-column-container {
+    display: grid;
+    justify-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
