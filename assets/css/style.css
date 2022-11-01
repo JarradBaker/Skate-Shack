@@ -132,6 +132,7 @@ main {
     background-color: #eeeeee;
 }
 
+
 #history-section h2, #history-section p {
     color: #222831;
     font-family: 'Quicksand', sans-serif;
@@ -141,10 +142,12 @@ main {
 #history-section h2 {
     font-size: 240%;
     padding: 50px;
+    border-bottom: solid #222831 2px;
+    margin: 0 25%;
 }
 
 #history-section p {
     font-size: 140%;
     padding: 50px 15%;
-    font-weight: 700px;
+    font-weight: bold;
 }
