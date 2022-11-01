@@ -151,3 +151,38 @@ main {
     padding: 50px 15%;
     font-weight: bold;
 }
+
+
+/* FOOTER */
+
+footer {
+    padding-top: 30px;
+    height: 100px;
+    width: 100%;
+    background-color: #222831;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+footer #copyright {
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 5%;
+    font-size: 150%;
+    color: #eeeeee;
+    font-family: 'Quicksand', sans-serif;
+}
+
+footer #social-links {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 250%;
+}
+
+footer #social-links a {
+    color: #eeeeee;
+}
+
+footer #social-links a:hover {
+    color: #00adb5;
+}
