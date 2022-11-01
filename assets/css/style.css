@@ -122,3 +122,29 @@ main {
     padding: 15px 0;
     font-size: 120%;
 }
+
+
+/* HISTORY OF SKATE SHACK SECTION */
+
+#history-section {
+    height: 800px;
+    width: 100%;
+    background-color: #eeeeee;
+}
+
+#history-section h2, #history-section p {
+    color: #222831;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+
+#history-section h2 {
+    font-size: 240%;
+    padding: 50px;
+}
+
+#history-section p {
+    font-size: 140%;
+    padding: 50px 15%;
+    font-weight: 700px;
+}
