@@ -58,7 +58,7 @@ main {
 
 #hero-image {
     height: inherit;
-    background-image: url('assets/img/main-hero-image-new.jpg');
+    background-image: url('../img/main-hero-image-new.jpg');
     width: 100%;
 }
 
