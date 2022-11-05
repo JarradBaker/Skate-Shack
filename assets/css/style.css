@@ -196,52 +196,80 @@ footer #social-links a:hover {
 /* INTRODUCTION SECTION */
 
 #introduction {
-    height: 800px;
+    height: 600px;
     width: 100%;
     background-color: #222831;
     color: #eeeeee;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 140%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 
 #olly-section {
-    height: 800px;
+    height: 600px;
     width: 100%;
     background-color: #eeeeee;
     color: #222831;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 140%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 
 #shove-section {
-    height: 800px;
+    height: 600px;
     width: 100%;
     background-color: #222831;
     color: #eeeeee;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 140%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 
 #olly-360-section {
-    height: 800px;
+    height: 600px;
     width: 100%;
     background-color: #eeeeee;
     color: #222831;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 140%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 
 #kickflip-section {
-    height: 800px;
+    height: 600px;
     width: 100%;
     background-color: #222831;
     color: #eeeeee;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 140%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 
 #heelflip-section {
-    height: 800px;
+    height: 600px;
     width: 100%;
     background-color: #eeeeee;
     color: #222831;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 140%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 
 #future-learning {
-    height: 800px;
+    height: 600px;
     width: 100%;
     background-color: #222831;
     color: #eeeeee;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 140%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 
 
