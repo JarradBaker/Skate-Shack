@@ -272,5 +272,16 @@ footer #social-links a:hover {
     grid-template-columns: 1fr 1fr;
 }
 
+.grid-item-left {
+    padding: 100px 5% 0 20%;
+}
 
+.grid-item-left h1 {
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.grid-item-left p {
+    text-align: center;
+}
 /* MEDIA QUERIES */
