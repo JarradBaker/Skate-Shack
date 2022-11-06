@@ -284,4 +284,12 @@ footer #social-links a:hover {
 .grid-item-left p {
     text-align: center;
 }
+
+.grid-item-right {
+    padding: 100px 15% 0 15%;
+    overflow: auto;
+}
+
+
+
 /* MEDIA QUERIES */
