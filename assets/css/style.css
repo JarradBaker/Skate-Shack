@@ -202,8 +202,8 @@ footer #social-links a:hover {
     color: #eeeeee;
     font-family: 'Quicksand', sans-serif;
     font-size: 140%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    text-align: center;
+    padding: 100px 5% 0 5%;
 }
 
 #olly-section {
@@ -268,15 +268,24 @@ footer #social-links a:hover {
     color: #eeeeee;
     font-family: 'Quicksand', sans-serif;
     font-size: 140%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    text-align: center;
+    padding: 100px 5% 0 5%;
+}
+
+
+#future-learning h2, #future-learning p, #introduction h1, #introduction p {
+    width: 60%;
+    margin: 0 20%;
+}
+#future-learning h2, #introduction h1 {
+    padding-bottom: 20px;
 }
 
 .grid-item-left {
     padding: 100px 5% 0 20%;
 }
 
-.grid-item-left h1 {
+.grid-item-left h2 {
     padding-bottom: 20px;
     text-align: center;
 }
